@@ -20,18 +20,12 @@ This project involves building an autonomous vehicle prototype using **Raspberry
 
 ## Setup ⚙️
 
-### Step 1: Set Up the Raspberry Pi
+Set Up the Raspberry Pi
 1. Install the Raspberry Pi OS on an SD card.
 2. Boot up the Raspberry Pi and set up the system (enable SSH, camera, and GPIO).
 3. Connect the Pi Camera to the CSI port on the Raspberry Pi.
+Install Required Libraries
 
-### Step 2: Install Required Libraries
-Open a terminal and enter the following commands to set up the environment:
-```bash
-python -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
-```
 
 ## Project Workflow 🛠️
 
